@@ -14,11 +14,13 @@ export default class GameUI extends Phaser.Scene {
 		const timeLabel = this.add.text(30, 30, 'High Score:', {
 			fontFamily: 'Hoefler Text',
 			fontSize: '32px',
+			color: '#000',
 		})
 
 		const timeVal = this.add.text(195, 30, '0', {
 			fontFamily: 'Hoefler Text',
 			fontSize: '32px',
+			color: '#000',
 		})
 
 		events.on('time-changed', (time: number) => {

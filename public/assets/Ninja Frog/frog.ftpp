@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "C:\\Users\\mrand\\git\\phaser-starter\\public\\assets",
+  "images": [
+    {
+      "name": "fall.png",
+      "path": "C:/Users/mrand/git/phaser-starter/public/assets/Ninja Frog/frames/fall.png",
+      "folder": ""
+    },
+    {
+      "name": "idle (01).png",
+      "path": "C:/Users/mrand/git/phaser-starter/public/assets/Ninja Frog/frames/idle/idle (01).png",
+      "folder": ""
+    },
+    {
+      "name": "idle (02).png",
+      "path": "C:/Users/mrand/git/phaser-starter/public/assets/Ninja Frog/frames/idle/idle (02).png",
+      "folder": ""
+    },
+    {
+      "name": "idle (03).png",
+      "path": "C:/Users/mrand/git/phaser-starter/public/assets/Ninja Frog/frames/idle/idle (03).png",
+      "folder": ""
+    },
+    {
+      "name": "idle (04).png",
+      "path": "C:/Users/mrand/git/phaser-starter/public/assets/Ninja Frog/frames/idle/idle (04).png",
+      "folder": ""
+    },
+    {
+      "name": "idle (05).png",
+      "path": "C:/Users/mrand/git/phaser-starter/public/assets/Ninja Frog/frames/idle/idle (05).png",
+      "folder": ""
+    },
+    {
+      "name": "idle (06).png",
+      "path": "C:/Users/mrand/git/phaser-starter/public/assets/Ninja Frog/frames/idle/idle (06).png",
+      "folder": ""
+    },
+    {
+      "name": "idle (07).png",
+      "path": "C:/Users/mrand/git/phaser-starter/public/assets/Ninja Frog/frames/idle/idle (07).png",
+      "folder": ""
+    },
+    {
+      "name": "idle (08).png",
+      "path": "C:/Users/mrand/git/phaser-starter/public/assets/Ninja Frog/frames/idle/idle (08).png",
+      "folder": ""
+    },
+    {
+      "name": "idle (09).png",
+      "path": "C:/Users/mrand/git/phaser-starter/public/assets/Ninja Frog/frames/idle/idle (09).png",
+      "folder": ""
+    },
+    {
+      "name": "idle (10).png",
+      "path": "C:/Users/mrand/git/phaser-starter/public/assets/Ninja Frog/frames/idle/idle (10).png",
+      "folder": ""
+    },
+    {
+      "name": "idle (11).png",
+      "path": "C:/Users/mrand/git/phaser-starter/public/assets/Ninja Frog/frames/idle/idle (11).png",
+      "folder": ""
+    },
+    {
+      "name": "jump.png",
+      "path": "C:/Users/mrand/git/phaser-starter/public/assets/Ninja Frog/frames/jump.png",
+      "folder": ""
+    },
+    {
+      "name": "run (01).png",
+      "path": "C:/Users/mrand/git/phaser-starter/public/assets/Ninja Frog/frames/run/run (01).png",
+      "folder": ""
+    },
+    {
+      "name": "run (02).png",
+      "path": "C:/Users/mrand/git/phaser-starter/public/assets/Ninja Frog/frames/run/run (02).png",
+      "folder": ""
+    },
+    {
+      "name": "run (03).png",
+      "path": "C:/Users/mrand/git/phaser-starter/public/assets/Ninja Frog/frames/run/run (03).png",
+      "folder": ""
+    },
+    {
+      "name": "run (04).png",
+      "path": "C:/Users/mrand/git/phaser-starter/public/assets/Ninja Frog/frames/run/run (04).png",
+      "folder": ""
+    },
+    {
+      "name": "run (05).png",
+      "path": "C:/Users/mrand/git/phaser-starter/public/assets/Ninja Frog/frames/run/run (05).png",
+      "folder": ""
+    },
+    {
+      "name": "run (06).png",
+      "path": "C:/Users/mrand/git/phaser-starter/public/assets/Ninja Frog/frames/run/run (06).png",
+      "folder": ""
+    },
+    {
+      "name": "run (07).png",
+      "path": "C:/Users/mrand/git/phaser-starter/public/assets/Ninja Frog/frames/run/run (07).png",
+      "folder": ""
+    },
+    {
+      "name": "run (08).png",
+      "path": "C:/Users/mrand/git/phaser-starter/public/assets/Ninja Frog/frames/run/run (08).png",
+      "folder": ""
+    },
+    {
+      "name": "run (09).png",
+      "path": "C:/Users/mrand/git/phaser-starter/public/assets/Ninja Frog/frames/run/run (09).png",
+      "folder": ""
+    },
+    {
+      "name": "run (10).png",
+      "path": "C:/Users/mrand/git/phaser-starter/public/assets/Ninja Frog/frames/run/run (10).png",
+      "folder": ""
+    },
+    {
+      "name": "run (11).png",
+      "path": "C:/Users/mrand/git/phaser-starter/public/assets/Ninja Frog/frames/run/run (11).png",
+      "folder": ""
+    },
+    {
+      "name": "run (12).png",
+      "path": "C:/Users/mrand/git/phaser-starter/public/assets/Ninja Frog/frames/run/run (12).png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "frog",
+    "textureFormat": "png",
+    "removeFileExtension": false,
+    "prependFolderName": true,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "Phaser 3",
+    "fileName": "pack-result",
+    "savePath": "C:\\Users\\mrand\\git\\phaser-starter\\public\\assets",
+    "width": 2048,
+    "height": 2048,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 0,
+    "extrude": 0,
+    "allowRotation": false,
+    "allowTrim": true,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "OptimalPacker",
+    "packerMethod": "Automatic"
+  }
+}
